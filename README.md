@@ -3,7 +3,7 @@
 Credit scoring is the process of assessing the creditworthiness of an individual or business. This process is used by lenders to determine whether or not to approve a loan application and what interest rate to charge. Creditworthiness is typically assessed based on a number of factors, including the applicant's credit history, income, employment history, and debt-to-income ratio.
 
 ## Objective
-The objective of a credit score prediction project is to develop a machine learning model that can accurately predict credit scores. This model can then be used by lenders to make more informed decisions about loan applications.
+The objective of a credit score prediction project is to develop a machine learning/Deep Learning model that can accurately predict credit scores. This model can then be used by lenders to make more informed decisions about loan applications.
 
 
 ## Data Description
