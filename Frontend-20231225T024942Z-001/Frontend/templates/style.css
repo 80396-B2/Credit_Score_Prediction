@@ -1,0 +1,21 @@
+body{
+    background-color: whitesmoke;
+    font-family: 'Baloo 2', cursive;
+}
+
+.form-group {
+    margin-bottom: 60px;
+}
+
+.fb-reg-form{
+    border-radius: 0.7em;
+    box-shadow: 0.3em 0.3em 0.7em #00000015;
+    transition: border 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    border: rgb(250, 250, 250) 0.2em solid;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px;  
+    background-color: #0C3566;
+    color: white;
+
+  }
